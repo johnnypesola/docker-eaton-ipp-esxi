@@ -27,6 +27,8 @@ password: dockeradmin
 *   ESXi host has ssh enabled.
 *   ESXi host is configured to allow connections from the provided id_rsa key.
 
+How to configure ESXi is outside the scope of this readme. [But this could help you out.](https://communities.vmware.com/message/2192764)
+
 ## Provided configuration files
 
 *   shutdown_esxi.sh
