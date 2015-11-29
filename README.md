@@ -6,6 +6,10 @@ To configure Eaton IPP to automatically shut down ESXi host(s) on low power.
 
 (Only tested with USB use).
 
+## Status
+
+Not working at the moment. Eaton IPP won't execute the script file shutdown_esxi.sh no matter what.
+
 ## Description
 
 This is the Git repo for a Docker container installing Eatons Intelligent-Power-Protector software which allows you to control and setup actions for your Eaton UPS throught a web interface.
